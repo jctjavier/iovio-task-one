@@ -1,3 +1,4 @@
 # iovio-task-one
-##### status: *complete*
-## Description: Program that resolves an equation
+##### status: *complete* :+1:
+### Description: 
+#### Program that resolves an equation
